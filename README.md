@@ -12,7 +12,7 @@ If you are developing an ERC721 token, consider this repository a guide to poten
 
 ERC721 resources:
 - Official ERC721 documentation: https://eips.ethereum.org/EIPS/eip-721
-- RareSkills ERC721 guid: https://www.rareskills.io/post/erc721 
+- RareSkills ERC721 guide: https://www.rareskills.io/post/erc721 
 
 # ERC721 Tokens
 
